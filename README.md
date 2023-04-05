@@ -1,5 +1,5 @@
 Rest API in java with JPA and Springboot , attaching to a Docker container and using Postman for GET/POST/PUT/DELETE Requests to add to the database on MYSQL workbench
-
+Database is for Movies and includes the first 2 Avengers movies
 ![qap2 1](https://user-images.githubusercontent.com/100211073/229967651-db64a755-5e4a-47eb-8efb-37e2ae38602d.png)
 ![qap2 2](https://user-images.githubusercontent.com/100211073/229967626-99c5a509-36e3-4124-ac26-3c68b23463b3.png)
 ![qap2 3](https://user-images.githubusercontent.com/100211073/229967625-a20934e2-35d0-4b4d-9380-f2aff94dde09.png)
